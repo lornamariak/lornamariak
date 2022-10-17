@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lornamariak
+- 👋 Hi, I’m Lorna
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning pandas, scikit learn, natural language processing
 - 💞️ I’m looking to collaborate on data science projects
