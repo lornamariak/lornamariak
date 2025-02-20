@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lorna
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning pandas, scikit learn, natural language processing
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me lornamariak@gmail.com
+- 👀 I’m interested in AiML
+- 🌱 I’m currently wokring on NLP(LLM) Infrastructure and Alignment projects.
+- 💞️ I’m looking to collaborate on projects and research.
+- 📫 How to reach me lornamariak[at]gmail[dot]com.
 
 <!---
 lornamariak/lornamariak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
